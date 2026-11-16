@@ -1,0 +1,746 @@
+[
+  {
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "name": "Apple Inc.",
+    "aliases": [
+      "AAPL",
+      "Apple",
+      "Apple Computer",
+      "Apple Inc.",
+      "Cupertino"
+    ],
+    "sector": "Information Technology",
+    "isin": "US0000320193",
+    "qid": "Q312",
+    "description": "Designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and services."
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "name": "Microsoft Corporation",
+    "aliases": [
+      "MSFT",
+      "Microsoft",
+      "Microsoft Corp",
+      "Microsoft Corporation",
+      "Redmond"
+    ],
+    "sector": "Information Technology",
+    "isin": "US0000789019",
+    "qid": "Q2283",
+    "description": "Develops software, services, devices and solutions, including Windows, Azure cloud, Office 365, and AI."
+  },
+  {
+    "ticker": "GOOGL",
+    "cik": "0001652044",
+    "name": "Alphabet Inc.",
+    "aliases": [
+      "Alphabet",
+      "Alphabet Inc.",
+      "GOOGL",
+      "Google",
+      "Google LLC",
+      "Mountain View"
+    ],
+    "sector": "Communication Services",
+    "isin": "US0001652044",
+    "qid": "Q95",
+    "description": "Global technology company specializing in online search, cloud computing, software, and hardware."
+  },
+  {
+    "ticker": "AMZN",
+    "cik": "0001018724",
+    "name": "Amazon.com Inc.",
+    "aliases": [
+      "AMZN",
+      "AWS",
+      "Amazon",
+      "Amazon.com",
+      "Amazon.com Inc.",
+      "Seattle"
+    ],
+    "sector": "Consumer Discretionary",
+    "isin": "US0001018724",
+    "qid": "Q3884",
+    "description": "E-commerce retailer, cloud computing provider through AWS, digital streaming, and artificial intelligence."
+  },
+  {
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "name": "NVIDIA Corporation",
+    "aliases": [
+      "NVDA",
+      "NVIDIA Corporation",
+      "Nvidia",
+      "Nvidia Corp",
+      "Santa Clara"
+    ],
+    "sector": "Information Technology",
+    "isin": "US0001045810",
+    "qid": "Q182477",
+    "description": "Pioneered accelerated computing, designing GPUs for gaming, datacenter AI acceleration, and autonomous vehicles."
+  },
+  {
+    "ticker": "BRK.B",
+    "cik": "0001067983",
+    "name": "Berkshire Hathaway Inc.",
+    "aliases": [
+      "BRK B",
+      "BRK.B",
+      "Berkshire",
+      "Berkshire Hathaway",
+      "Berkshire Hathaway Inc.",
+      "Omaha"
+    ],
+    "sector": "Financials",
+    "isin": "US0001067983",
+    "qid": "Q478214",
+    "description": "Conglomerate holding company engaged in insurance, freight rail transportation, utility and energy, manufacturing."
+  },
+  {
+    "ticker": "META",
+    "cik": "0001326801",
+    "name": "Meta Platforms Inc.",
+    "aliases": [
+      "Facebook",
+      "Facebook Inc.",
+      "META",
+      "Menlo Park",
+      "Meta",
+      "Meta Platforms",
+      "Meta Platforms Inc."
+    ],
+    "sector": "Communication Services",
+    "isin": "US0001326801",
+    "qid": "Q380",
+    "description": "Builds technologies that help people connect, find communities, and grow businesses across Instagram, WhatsApp, VR."
+  },
+  {
+    "ticker": "TSLA",
+    "cik": "0001318605",
+    "name": "Tesla Inc.",
+    "aliases": [
+      "Austin",
+      "TSLA",
+      "Tesla",
+      "Tesla Inc.",
+      "Tesla Motors"
+    ],
+    "sector": "Consumer Discretionary",
+    "isin": "US0001318605",
+    "qid": "Q478214",
+    "description": "Designs, develops, manufactures, sells, and leases fully electric vehicles, energy generation and storage systems."
+  },
+  {
+    "ticker": "JPM",
+    "cik": "0000019617",
+    "name": "JPMorgan Chase & Co.",
+    "aliases": [
+      "Chase",
+      "JP Morgan",
+      "JPM",
+      "JPMorgan",
+      "JPMorgan Chase",
+      "JPMorgan Chase & Co.",
+      "Morgan Guaranty"
+    ],
+    "sector": "Financials",
+    "isin": "US0000019617",
+    "qid": "Q334303",
+    "description": "Global financial services firm and banking institution offering investment banking, commercial banking, and asset management."
+  },
+  {
+    "ticker": "JNJ",
+    "cik": "0000200406",
+    "name": "Johnson & Johnson",
+    "aliases": [
+      "J&J",
+      "JNJ",
+      "Johnson & Johnson",
+      "Johnson and Johnson"
+    ],
+    "sector": "Health Care",
+    "isin": "US0000200406",
+    "qid": "Q333215",
+    "description": "Healthcare products company researching, developing, and manufacturing pharmaceuticals and medical technologies."
+  },
+  {
+    "ticker": "V",
+    "cik": "0001403161",
+    "name": "Visa Inc.",
+    "aliases": [
+      "V",
+      "Visa",
+      "Visa Inc."
+    ],
+    "sector": "Financials",
+    "isin": "US0001403161",
+    "qid": "Q185871",
+    "description": "Digital payments network facilitating transactions between consumers, merchants, financial institutions, and government entities."
+  },
+  {
+    "ticker": "UNH",
+    "cik": "0000731766",
+    "name": "UnitedHealth Group Incorporated",
+    "aliases": [
+      "Optum",
+      "UNH",
+      "UnitedHealth",
+      "UnitedHealth Group",
+      "UnitedHealth Group Incorporated",
+      "UnitedHealthcare"
+    ],
+    "sector": "Health Care",
+    "isin": "US0000731766",
+    "qid": "Q2092505",
+    "description": "Diversified healthcare company providing medical benefits through UnitedHealthcare and information/technology-enabled services through Optum."
+  },
+  {
+    "ticker": "XOM",
+    "cik": "0000034088",
+    "name": "Exxon Mobil Corporation",
+    "aliases": [
+      "Exxon",
+      "Exxon Mobil",
+      "Exxon Mobil Corp",
+      "Exxon Mobil Corporation",
+      "ExxonMobil",
+      "Standard Oil",
+      "XOM"
+    ],
+    "sector": "Energy",
+    "isin": "US0000034088",
+    "qid": "Q156238",
+    "description": "International energy company exploring and producing crude oil and natural gas, manufacturing petroleum products and petrochemicals."
+  },
+  {
+    "ticker": "WMT",
+    "cik": "0000104169",
+    "name": "Walmart Inc.",
+    "aliases": [
+      "WMT",
+      "Wal-Mart",
+      "Wal-Mart Stores",
+      "Walmart",
+      "Walmart Inc."
+    ],
+    "sector": "Consumer Staples",
+    "isin": "US0000104169",
+    "qid": "Q483551",
+    "description": "Operates retail and wholesale stores, discount departmental stores, supercenters, and eCommerce platforms worldwide."
+  },
+  {
+    "ticker": "MA",
+    "cik": "0001141391",
+    "name": "Mastercard Incorporated",
+    "aliases": [
+      "MA",
+      "MasterCard Incorporated",
+      "Mastercard",
+      "Mastercard Inc.",
+      "Mastercard Incorporated"
+    ],
+    "sector": "Financials",
+    "isin": "US0001141391",
+    "qid": "Q144799",
+    "description": "Global payments technology company connecting consumers, financial institutions, merchants, and governments."
+  },
+  {
+    "ticker": "PG",
+    "cik": "0000080424",
+    "name": "Procter & Gamble Company",
+    "aliases": [
+      "P&G",
+      "PG",
+      "Procter & Gamble",
+      "Procter & Gamble Company",
+      "Procter and Gamble"
+    ],
+    "sector": "Consumer Staples",
+    "isin": "US0000080424",
+    "qid": "Q157790",
+    "description": "Manufactures and markets branded consumer packaged goods across beauty, grooming, health care, fabric and home care."
+  },
+  {
+    "ticker": "HD",
+    "cik": "0000354950",
+    "name": "The Home Depot Inc.",
+    "aliases": [
+      "HD",
+      "Home Depot",
+      "Home Depot Inc.",
+      "The Home Depot",
+      "The Home Depot Inc."
+    ],
+    "sector": "Consumer Discretionary",
+    "isin": "US0000354950",
+    "qid": "Q864407",
+    "description": "Home improvement retailer selling building materials, home improvement products, lawn and garden products, and decor."
+  },
+  {
+    "ticker": "CVX",
+    "cik": "0000093410",
+    "name": "Chevron Corporation",
+    "aliases": [
+      "CVX",
+      "Chevron",
+      "Chevron Corp",
+      "Chevron Corporation",
+      "Texaco"
+    ],
+    "sector": "Energy",
+    "isin": "US0000093410",
+    "qid": "Q319642",
+    "description": "Integrated energy operations managing exploration and production, refining, marketing, and chemical manufacturing."
+  },
+  {
+    "ticker": "BAC",
+    "cik": "0000070858",
+    "name": "Bank of America Corporation",
+    "aliases": [
+      "BAC",
+      "Bank of America",
+      "Bank of America Corporation",
+      "BofA",
+      "BofA Securities",
+      "Countrywide",
+      "Merrill Lynch"
+    ],
+    "sector": "Financials",
+    "isin": "US0000070858",
+    "qid": "Q487907",
+    "description": "Financial institution providing banking, investing, asset management and other financial and risk-management products."
+  },
+  {
+    "ticker": "ABBV",
+    "cik": "0001551152",
+    "name": "AbbVie Inc.",
+    "aliases": [
+      "ABBV",
+      "AbbVie",
+      "AbbVie Inc."
+    ],
+    "sector": "Health Care",
+    "isin": "US0001551152",
+    "qid": "Q2820982",
+    "description": "Research-based biopharmaceutical company developing immunology, oncology, neuroscience, and eye care therapies."
+  },
+  {
+    "ticker": "PFE",
+    "cik": "0000078003",
+    "name": "Pfizer Inc.",
+    "aliases": [
+      "PFE",
+      "Pfizer",
+      "Pfizer Inc."
+    ],
+    "sector": "Health Care",
+    "isin": "US0000078003",
+    "qid": "Q206921",
+    "description": "Discovers, develops, manufactures, marketing, sales and distributes biopharmaceutical products and vaccines."
+  },
+  {
+    "ticker": "AVGO",
+    "cik": "0001730168",
+    "name": "Broadcom Inc.",
+    "aliases": [
+      "AVGO",
+      "Avago Technologies",
+      "Broadcom",
+      "Broadcom Inc."
+    ],
+    "sector": "Information Technology",
+    "isin": "US0001730168",
+    "qid": "Q2925586",
+    "description": "Designs, develops, and supplies semiconductor devices and enterprise software infrastructure solutions."
+  },
+  {
+    "ticker": "KO",
+    "cik": "0000021344",
+    "name": "The Coca-Cola Company",
+    "aliases": [
+      "Coca Cola",
+      "Coca-Cola",
+      "Coke",
+      "KO",
+      "The Coca-Cola Company"
+    ],
+    "sector": "Consumer Staples",
+    "isin": "US0000021344",
+    "qid": "Q3295867",
+    "description": "Non-alcoholic beverage company manufacturing, marketing, and selling sparkling soft drinks, water, juices, and coffee."
+  },
+  {
+    "ticker": "COST",
+    "cik": "0000909832",
+    "name": "Costco Wholesale Corporation",
+    "aliases": [
+      "COST",
+      "Costco",
+      "Costco Wholesale",
+      "Costco Wholesale Corp",
+      "Costco Wholesale Corporation"
+    ],
+    "sector": "Consumer Staples",
+    "isin": "US0000909832",
+    "qid": "Q715583",
+    "description": "Operates membership warehouses offering low prices on a limited selection of branded and private-label products."
+  },
+  {
+    "ticker": "MRK",
+    "cik": "0000310158",
+    "name": "Merck & Co. Inc.",
+    "aliases": [
+      "MRK",
+      "MSD",
+      "Merck",
+      "Merck & Co.",
+      "Merck & Co. Inc.",
+      "Merck Sharp & Dohme"
+    ],
+    "sector": "Health Care",
+    "isin": "US0000310158",
+    "qid": "Q1417318",
+    "description": "Global healthcare company delivering innovative health solutions through prescription medicines, vaccines, and animal health products."
+  },
+  {
+    "ticker": "PEP",
+    "cik": "0000077476",
+    "name": "PepsiCo Inc.",
+    "aliases": [
+      "Frito-Lay",
+      "PEP",
+      "Pepsi",
+      "PepsiCo",
+      "PepsiCo Inc."
+    ],
+    "sector": "Consumer Staples",
+    "isin": "US0000077476",
+    "qid": "Q334800",
+    "description": "Food and beverage company manufacturing and marketing snacks, carbonated beverages, grain-based foods, and juices."
+  },
+  {
+    "ticker": "ADBE",
+    "cik": "0000796343",
+    "name": "Adobe Inc.",
+    "aliases": [
+      "ADBE",
+      "Adobe",
+      "Adobe Inc.",
+      "Adobe Systems"
+    ],
+    "sector": "Information Technology",
+    "isin": "US0000796343",
+    "qid": "Q11463",
+    "description": "Diversified software company offering creative cloud tools, digital marketing, and document management solutions."
+  },
+  {
+    "ticker": "DHR",
+    "cik": "0000313616",
+    "name": "Danaher Corporation",
+    "aliases": [
+      "DHR",
+      "Danaher",
+      "Danaher Corp",
+      "Danaher Corporation"
+    ],
+    "sector": "Health Care",
+    "isin": "US0000313616",
+    "qid": "Q1159239",
+    "description": "Global science and technology innovator designing medical diagnostics, life sciences, and biotechnology equipment."
+  },
+  {
+    "ticker": "CRM",
+    "cik": "0001108524",
+    "name": "Salesforce Inc.",
+    "aliases": [
+      "CRM",
+      "Salesforce",
+      "Salesforce Inc.",
+      "Salesforce.com"
+    ],
+    "sector": "Information Technology",
+    "isin": "US0001108524",
+    "qid": "Q34484",
+    "description": "Customer relationship management technology provider offering cloud applications for sales, service, marketing, and analytics."
+  },
+  {
+    "ticker": "NFLX",
+    "cik": "0001065280",
+    "name": "Netflix Inc.",
+    "aliases": [
+      "NFLX",
+      "Netflix",
+      "Netflix Inc."
+    ],
+    "sector": "Communication Services",
+    "isin": "US0001065280",
+    "qid": "Q907311",
+    "description": "Entertainment service with paid memberships in over 190 countries streaming TV series, documentaries, feature films, and games."
+  },
+  {
+    "ticker": "TMO",
+    "cik": "0000097745",
+    "name": "Thermo Fisher Scientific Inc.",
+    "aliases": [
+      "TMO",
+      "Thermo Fisher Scientific Inc."
+    ],
+    "sector": "Health Care",
+    "isin": "US0000097745",
+    "qid": null,
+    "description": "Thermo Fisher Scientific Inc. is an S&P 500 company operating in the Health Care sector."
+  },
+  {
+    "ticker": "ACN",
+    "cik": "0001467373",
+    "name": "Accenture plc",
+    "aliases": [
+      "ACN",
+      "Accenture plc"
+    ],
+    "sector": "Information Technology",
+    "isin": "US0001467373",
+    "qid": null,
+    "description": "Accenture plc is an S&P 500 company operating in the Information Technology sector."
+  },
+  {
+    "ticker": "CSCO",
+    "cik": "0000858877",
+    "name": "Cisco Systems Inc.",
+    "aliases": [
+      "CSCO",
+      "Cisco Systems Inc."
+    ],
+    "sector": "Information Technology",
+    "isin": "US0000858877",
+    "qid": null,
+    "description": "Cisco Systems Inc. is an S&P 500 company operating in the Information Technology sector."
+  },
+  {
+    "ticker": "NKE",
+    "cik": "0000320187",
+    "name": "NIKE Inc.",
+    "aliases": [
+      "NIKE Inc.",
+      "NKE"
+    ],
+    "sector": "Consumer Discretionary",
+    "isin": "US0000320187",
+    "qid": null,
+    "description": "NIKE Inc. is an S&P 500 company operating in the Consumer Discretionary sector."
+  },
+  {
+    "ticker": "WFC",
+    "cik": "0000072971",
+    "name": "Wells Fargo & Company",
+    "aliases": [
+      "WFC",
+      "Wells Fargo",
+      "Wells Fargo & Company",
+      "Wells Fargo Bank"
+    ],
+    "sector": "Financials",
+    "isin": "US0000072971",
+    "qid": "Q744149",
+    "description": "Diversified financial services company providing banking, investment and mortgage products and services."
+  },
+  {
+    "ticker": "MCD",
+    "cik": "0000063908",
+    "name": "McDonald's Corporation",
+    "aliases": [
+      "MCD",
+      "McDonald's Corporation"
+    ],
+    "sector": "Consumer Discretionary",
+    "isin": "US0000063908",
+    "qid": null,
+    "description": "McDonald's Corporation is an S&P 500 company operating in the Consumer Discretionary sector."
+  },
+  {
+    "ticker": "LIN",
+    "cik": "0001707925",
+    "name": "Linde plc",
+    "aliases": [
+      "LIN",
+      "Linde plc"
+    ],
+    "sector": "Materials",
+    "isin": "US0001707925",
+    "qid": null,
+    "description": "Linde plc is an S&P 500 company operating in the Materials sector."
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "name": "Advanced Micro Devices Inc.",
+    "aliases": [
+      "AMD",
+      "AMD Inc.",
+      "Advanced Micro Devices",
+      "Advanced Micro Devices Inc."
+    ],
+    "sector": "Information Technology",
+    "isin": "US0000002488",
+    "qid": "Q128896",
+    "description": "Semiconductor company developing computer processors and related technologies for business and consumer markets."
+  },
+  {
+    "ticker": "NEE",
+    "cik": "0000753308",
+    "name": "NextEra Energy Inc.",
+    "aliases": [
+      "NEE",
+      "NextEra Energy Inc."
+    ],
+    "sector": "Utilities",
+    "isin": "US0000753308",
+    "qid": null,
+    "description": "NextEra Energy Inc. is an S&P 500 company operating in the Utilities sector."
+  },
+  {
+    "ticker": "ORCL",
+    "cik": "0001341439",
+    "name": "Oracle Corporation",
+    "aliases": [
+      "ORCL",
+      "Oracle Corporation"
+    ],
+    "sector": "Information Technology",
+    "isin": "US0001341439",
+    "qid": null,
+    "description": "Oracle Corporation is an S&P 500 company operating in the Information Technology sector."
+  },
+  {
+    "ticker": "QCOM",
+    "cik": "0000804328",
+    "name": "QUALCOMM Incorporated",
+    "aliases": [
+      "QCOM",
+      "QUALCOMM Incorporated"
+    ],
+    "sector": "Information Technology",
+    "isin": "US0000804328",
+    "qid": null,
+    "description": "QUALCOMM Incorporated is an S&P 500 company operating in the Information Technology sector."
+  },
+  {
+    "ticker": "TXN",
+    "cik": "0000097476",
+    "name": "Texas Instruments Incorporated",
+    "aliases": [
+      "TXN",
+      "Texas Instruments Incorporated"
+    ],
+    "sector": "Information Technology",
+    "isin": "US0000097476",
+    "qid": null,
+    "description": "Texas Instruments Incorporated is an S&P 500 company operating in the Information Technology sector."
+  },
+  {
+    "ticker": "UPS",
+    "cik": "0001090727",
+    "name": "United Parcel Service Inc.",
+    "aliases": [
+      "UPS",
+      "United Parcel Service Inc."
+    ],
+    "sector": "Industrials",
+    "isin": "US0001090727",
+    "qid": null,
+    "description": "United Parcel Service Inc. is an S&P 500 company operating in the Industrials sector."
+  },
+  {
+    "ticker": "BMY",
+    "cik": "0000014272",
+    "name": "Bristol-Myers Squibb Company",
+    "aliases": [
+      "BMY",
+      "Bristol-Myers Squibb Company"
+    ],
+    "sector": "Health Care",
+    "isin": "US0000014272",
+    "qid": null,
+    "description": "Bristol-Myers Squibb Company is an S&P 500 company operating in the Health Care sector."
+  },
+  {
+    "ticker": "PM",
+    "cik": "0001413329",
+    "name": "Philip Morris International Inc.",
+    "aliases": [
+      "PM",
+      "Philip Morris International Inc."
+    ],
+    "sector": "Consumer Staples",
+    "isin": "US0001413329",
+    "qid": null,
+    "description": "Philip Morris International Inc. is an S&P 500 company operating in the Consumer Staples sector."
+  },
+  {
+    "ticker": "HON",
+    "cik": "0000773840",
+    "name": "Honeywell International Inc.",
+    "aliases": [
+      "HON",
+      "Honeywell International Inc."
+    ],
+    "sector": "Industrials",
+    "isin": "US0000773840",
+    "qid": null,
+    "description": "Honeywell International Inc. is an S&P 500 company operating in the Industrials sector."
+  },
+  {
+    "ticker": "INTU",
+    "cik": "0000896878",
+    "name": "Intuit Inc.",
+    "aliases": [
+      "INTU",
+      "Intuit Inc."
+    ],
+    "sector": "Information Technology",
+    "isin": "US0000896878",
+    "qid": null,
+    "description": "Intuit Inc. is an S&P 500 company operating in the Information Technology sector."
+  },
+  {
+    "ticker": "AMGN",
+    "cik": "0000318154",
+    "name": "Amgen Inc.",
+    "aliases": [
+      "AMGN",
+      "Amgen Inc."
+    ],
+    "sector": "Health Care",
+    "isin": "US0000318154",
+    "qid": null,
+    "description": "Amgen Inc. is an S&P 500 company operating in the Health Care sector."
+  },
+  {
+    "ticker": "COP",
+    "cik": "0001163165",
+    "name": "ConocoPhillips",
+    "aliases": [
+      "COP",
+      "ConocoPhillips"
+    ],
+    "sector": "Energy",
+    "isin": "US0001163165",
+    "qid": null,
+    "description": "ConocoPhillips is an S&P 500 company operating in the Energy sector."
+  },
+  {
+    "ticker": "IBM",
+    "cik": "0000051143",
+    "name": "International Business Machines Corporation",
+    "aliases": [
+      "IBM",
+      "International Business Machines Corporation"
+    ],
+    "sector": "Information Technology",
+    "isin": "US0000051143",
+    "qid": null,
+    "description": "International Business Machines Corporation is an S&P 500 company operating in the Information Technology sector."
+  }
+]

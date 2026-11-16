@@ -1,0 +1,51 @@
+ticker,name,cik,sector
+AAPL,Apple Inc.,0000320193,Information Technology
+MSFT,Microsoft Corporation,0000789019,Information Technology
+GOOGL,Alphabet Inc.,0001652044,Communication Services
+AMZN,Amazon.com Inc.,0001018724,Consumer Discretionary
+NVDA,NVIDIA Corporation,0001045810,Information Technology
+BRK.B,Berkshire Hathaway Inc.,0001067983,Financials
+META,Meta Platforms Inc.,0001326801,Communication Services
+TSLA,Tesla Inc.,0001318605,Consumer Discretionary
+JPM,JPMorgan Chase & Co.,0000019617,Financials
+JNJ,Johnson & Johnson,0000200406,Health Care
+V,Visa Inc.,0001403161,Financials
+UNH,UnitedHealth Group Incorporated,0000731766,Health Care
+XOM,Exxon Mobil Corporation,0000034088,Energy
+WMT,Walmart Inc.,0000104169,Consumer Staples
+MA,Mastercard Incorporated,0001141391,Financials
+PG,Procter & Gamble Company,0000080424,Consumer Staples
+HD,The Home Depot Inc.,0000354950,Consumer Discretionary
+CVX,Chevron Corporation,0000093410,Energy
+BAC,Bank of America Corporation,0000070858,Financials
+ABBV,AbbVie Inc.,0001551152,Health Care
+PFE,Pfizer Inc.,0000078003,Health Care
+AVGO,Broadcom Inc.,0001730168,Information Technology
+KO,The Coca-Cola Company,0000021344,Consumer Staples
+COST,Costco Wholesale Corporation,0000909832,Consumer Staples
+MRK,Merck & Co. Inc.,0000310158,Health Care
+PEP,PepsiCo Inc.,0000077476,Consumer Staples
+ADBE,Adobe Inc.,0000796343,Information Technology
+DHR,Danaher Corporation,0000313616,Health Care
+CRM,Salesforce Inc.,0001108524,Information Technology
+NFLX,Netflix Inc.,0001065280,Communication Services
+TMO,Thermo Fisher Scientific Inc.,0000097745,Health Care
+ACN,Accenture plc,0001467373,Information Technology
+CSCO,Cisco Systems Inc.,0000858877,Information Technology
+NKE,NIKE Inc.,0000320187,Consumer Discretionary
+WFC,Wells Fargo & Company,0000072971,Financials
+MCD,McDonald's Corporation,0000063908,Consumer Discretionary
+LIN,Linde plc,0001707925,Materials
+AMD,Advanced Micro Devices Inc.,0000002488,Information Technology
+NEE,NextEra Energy Inc.,0000753308,Utilities
+ORCL,Oracle Corporation,0001341439,Information Technology
+QCOM,QUALCOMM Incorporated,0000804328,Information Technology
+TXN,Texas Instruments Incorporated,0000097476,Information Technology
+UPS,United Parcel Service Inc.,0001090727,Industrials
+BMY,Bristol-Myers Squibb Company,0000014272,Health Care
+PM,Philip Morris International Inc.,0001413329,Consumer Staples
+HON,Honeywell International Inc.,0000773840,Industrials
+INTU,Intuit Inc.,0000896878,Information Technology
+AMGN,Amgen Inc.,0000318154,Health Care
+COP,ConocoPhillips,0001163165,Energy
+IBM,International Business Machines Corporation,0000051143,Information Technology
