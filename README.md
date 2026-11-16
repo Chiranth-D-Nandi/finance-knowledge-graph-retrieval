@@ -224,7 +224,6 @@ finance-knowledge-graph-retrieval/
 │   ├── raw/                           # SEC filings, Yahoo Finance OHLCV, entity registry
 │   ├── processed/                     # Chunks parquet, XBRL facts, graph nodes and edges
 │   └── benchmarks/                    # Custom temporal QA benchmark fixtures
-├── docs/                              # Technical reports, API guides, and interview references
 ├── frontend/                          # Next.js 14 App Router light-mode interface
 │   ├── app/                           # Layout and dynamic API proxy routes
 │   └── app/components/                # SearchBar, SearchResults, QAPanel, TimelineView, ImpactChart
@@ -239,17 +238,6 @@ finance-knowledge-graph-retrieval/
 ├── pyproject.toml                     # Python package specifications
 └── requirements.txt                   # Pinned dependency manifest
 ```
-
----
-
-## Technical Documentation
-
-* [System Architecture and Design Decisions](docs/ARCHITECTURE.md)
-* [REST API Reference Guide](docs/API.md)
-* [Model Cards and Inference Specifications](docs/MODELS.md)
-* [Dataset Provenance and Fair-Access Policies](docs/DATASET_CATALOG.md)
-* [Comprehensive Technical Report](docs/TECHNICAL_REPORT.md)
-* [30 Technical Interview Questions and Detailed Answers](docs/INTERVIEW.md)
 
 ---
 
