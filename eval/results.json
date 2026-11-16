@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "system": "Financial Knowledge Graph & Temporal Retrieval Platform",
+    "version": "1.0.0",
+    "git_sha": "10cab9e572e1149e2eef6d7d03d9bd71f7e3237d",
+    "timestamp": "2026-11-16T14:52:56.593885+00:00",
+    "embedding_model": "BAAI/bge-base-en-v1.5",
+    "reranker_model": "cross-encoder/ms-marco-MiniLM-L6-v2",
+    "generative_model": "Qwen/Qwen2.5-3B-Instruct",
+    "seed": 42,
+    "total_indexed_chunks": 8,
+    "total_entities": 50
+  },
+  "temporal_leakage_harness": {
+    "passed": 20,
+    "total": 20,
+    "pass_rate": 1.0,
+    "violations": []
+  },
+  "fiqa_retrieval_ablations": {
+    "BM25 Only": {
+      "nDCG@10": 0.9528,
+      "Recall@10": 1.0,
+      "MRR": 1.0
+    },
+    "Dense (BGE Zero-Shot)": {
+      "nDCG@10": 0.9513,
+      "Recall@10": 1.0,
+      "MRR": 1.0
+    },
+    "Dense (BGE Calibrated)": {
+      "nDCG@10": 0.9653,
+      "Recall@10": 1.0,
+      "MRR": 1.0
+    },
+    "Hybrid RRF (No Rerank)": {
+      "nDCG@10": 0.9636,
+      "Recall@10": 1.0,
+      "MRR": 1.0
+    },
+    "Final (Hybrid + Reranker + ER)": {
+      "nDCG@10": 0.9636,
+      "Recall@10": 1.0,
+      "MRR": 1.0
+    }
+  },
+  "financebench": {
+    "questions_count": 5,
+    "retrieval": {
+      "nDCG@10": 1.0,
+      "Recall@10": 1.0,
+      "MRR": 1.0
+    },
+    "qa": {
+      "exact_match": 0.0,
+      "token_f1": 0.2058,
+      "citation_coverage": 0.4
+    }
+  },
+  "custom_pit_qa_200": {
+    "total_queries": 200,
+    "positive_queries": 180,
+    "negative_queries": 20,
+    "retrieval": {
+      "nDCG@10": 1.0,
+      "Recall@10": 1.0,
+      "MRR": 1.0
+    },
+    "qa": {
+      "exact_match": 0.0,
+      "token_f1": 0.1103,
+      "citation_coverage": 0.3666
+    },
+    "abstention_accuracy": 1.0
+  },
+  "data_quality_anomaly": {
+    "normal_windows": 200,
+    "injected_breaks": 50,
+    "pr_auc": 0.1012,
+    "detection_delay_days": 1,
+    "is_synthetic": true
+  }
+}

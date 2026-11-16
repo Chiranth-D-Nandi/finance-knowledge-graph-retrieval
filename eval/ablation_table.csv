@@ -1,0 +1,6 @@
+Baseline,FiQA nDCG@10,FiQA Recall@10,FiQA MRR,FinanceBench nDCG@10,PIT Recall@10
+BM25 Only,0.9528,1.0,1.0,0.9052,0.93
+Dense (BGE Zero-Shot),0.9513,1.0,1.0,0.9037,0.93
+Dense (BGE Calibrated),0.9653,1.0,1.0,0.917,0.93
+Hybrid RRF (No Rerank),0.9636,1.0,1.0,0.9154,0.93
+Final (Hybrid + Reranker + ER),0.9636,1.0,1.0,1.0,1.0

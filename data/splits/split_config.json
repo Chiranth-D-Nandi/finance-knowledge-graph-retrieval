@@ -1,0 +1,8 @@
+{
+  "train_end": "2023-12-31",
+  "val_start": "2024-01-01",
+  "val_end": "2024-12-31",
+  "test_start": "2025-01-01",
+  "test_end": "2025-11-01",
+  "rule": "Document assigned by filing_date; price/macro by date; query by query_timestamp. No shuffling. Future docs never in train/val retrieval."
+}
